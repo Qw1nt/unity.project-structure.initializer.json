@@ -1,0 +1,18 @@
+{
+    "name": "SnailBee.ProjectStructure.Initializer.Extensions.Json.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eb850329fae452645a7b0003c4dff766"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
